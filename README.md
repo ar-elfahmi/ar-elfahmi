@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Alfian Rasyid El Fahmi banner" />
+<img src="./assets/github-header-banner.png" width="100%" alt="Alfian Rasyid El Fahmi banner" />
 
 <!-- Status badges -->
 <a href="https://github.com/ar-elfahmi?tab=followers"><img src="https://img.shields.io/badge/-Open%20to%20opportunities-success?style=flat-square&logo=handshake&logoColor=white" /></a>
