@@ -61,19 +61,6 @@ I like understanding a system from first principles, then building it to last.
       <p align="center">Containerizing a Vue + Express + Postgres monorepo, reverse proxy with <b>Let's Encrypt HTTPS</b>, and keeping servers healthy on low-RAM VPS.</p>
     </td>
   </tr>
-  <tr>
-    <td width="100%" valign="top" colspan="2">
-      <h3 align="center">📚 &nbsp;<a href="https://jialearning.app">JIA Learning</a> &nbsp;<a href="https://admin.jialearning.app"><img src="https://img.shields.io/badge/LIVE-jialearning.app-22A06B?style=flat-square&logo=googlechrome&logoColor=white" /></a></h3>
-      <p align="center"><em>An e-learning / exam platform I'm developing and operating end to end.</em></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Vue%203-42B883?style=flat-square&logo=vuedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
-      </p>
-      <p align="center">Admin panel, student portal, and API in one monorepo. Real exam authoring with <b>LaTeX-rendered questions</b>, assignment, submission, and reporting. A full playground for everything above.</p>
-    </td>
-  </tr>
 </table>
 
 ---
