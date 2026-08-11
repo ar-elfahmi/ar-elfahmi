@@ -63,7 +63,7 @@ I like understanding a system from first principles, then building it to last.
   </tr>
   <tr>
     <td width="100%" valign="top" colspan="2">
-      <h3 align="center">📚 &nbsp;<a href="https://jialearning.com">JIA Learning</a> &nbsp;<a href="https://admin.jialearning.com"><img src="https://img.shields.io/badge/LIVE-jialearning.com-22A06B?style=flat-square&logo=googlechrome&logoColor=white" /></a></h3>
+      <h3 align="center">📚 &nbsp;<a href="https://jialearning.app">JIA Learning</a> &nbsp;<a href="https://admin.jialearning.app"><img src="https://img.shields.io/badge/LIVE-jialearning.app-22A06B?style=flat-square&logo=googlechrome&logoColor=white" /></a></h3>
       <p align="center"><em>An e-learning / exam platform I'm developing and operating end to end.</em></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Vue%203-42B883?style=flat-square&logo=vuedotjs&logoColor=white" />
