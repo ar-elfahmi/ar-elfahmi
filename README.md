@@ -94,7 +94,7 @@ I like understanding a system from first principles, then building it to last.
 
 ---
 
-## ✨ &nbsp;Featured Projects
+## ✨ &nbsp;Projects
 
 <table>
   <tr>
