@@ -11,7 +11,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/ar-elfahmi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=600&color=7AA2F7&center=true&vCenter=true&multiline=true&random=false&width=640&height=110&lines=Full-Stack+%26+Mobile+Developer%3BCI%2FCD+%E2%80%A2+Blue-Green+Deploy+%E2%80%A2+Docker%3BServer+Management+%E2%80%A2+Nginx+%E2%80%A2+Ubuntu%3B%F0%9F%8E%AF+First+principles%2C+then+build" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=600&color=7AA2F7&center=true&vCenter=true&multiline=true&random=false&width=640&height=110&lines=Full-Stack+%26+Web and Mobile+Developer%3BCI%2FCD+%E2%80%A2+Blue-Green+Deploy+%E2%80%A2+Docker%3BServer+Management+%E2%80%A2+Nginx+%E2%80%A2+Ubuntu%3B%F0%9F%8E%AF+First+principles%2C+then+build" alt="Typing SVG" />
 </a>
 
 </div>
